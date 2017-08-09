@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Midi Fighter 64", "Midi Fighter 64.cproj", "{9F6B31AB-1232-47ED-9A07-4F832E87E9FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6B31AB-1232-47ED-9A07-4F832E87E9FE}.Debug|AVR.ActiveCfg = Debug|AVR
+		{9F6B31AB-1232-47ED-9A07-4F832E87E9FE}.Debug|AVR.Build.0 = Debug|AVR
+		{9F6B31AB-1232-47ED-9A07-4F832E87E9FE}.Release|AVR.ActiveCfg = Release|AVR
+		{9F6B31AB-1232-47ED-9A07-4F832E87E9FE}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
