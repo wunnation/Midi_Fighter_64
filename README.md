@@ -1,4 +1,4 @@
-# Midi_Fighter_64_Open_Source
+# Midi_Fighter_64
 Midi Fighter 64 Firmware
 
 Getting Started: First Build ===================
